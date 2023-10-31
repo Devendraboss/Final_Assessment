@@ -1,0 +1,40 @@
+div{
+  padding-left: 200px;
+  padding-top: 50px;
+}
+
+.myblog {
+  border: 5px solid;
+  color: #646cff;
+  text-align: center;
+  font-size: x-large;
+  width: 500px;
+  height: 400px;
+
+}
+
+input{
+  border:1px solid;
+  border-radius: 50px;
+  font-size: large;
+  width: 300px;
+  height: 30px;
+  
+}
+
+button {
+  border-radius: 15px;
+  padding: 0.4em 1.1em;
+  font-size: 1em;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.5s;
+  box-flex-group: rgb(223, 197, 197);
+  background-color: rgb(74, 74, 211);
+
+}
+button:hover {
+  background-color: #6eff64;
+}
+
+
